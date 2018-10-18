@@ -1,0 +1,11 @@
+C:\Users\Henry\source\repos\push\push\bin\Debug\netcoreapp2.1\push.deps.json
+C:\Users\Henry\source\repos\push\push\bin\Debug\netcoreapp2.1\push.runtimeconfig.json
+C:\Users\Henry\source\repos\push\push\bin\Debug\netcoreapp2.1\push.runtimeconfig.dev.json
+C:\Users\Henry\source\repos\push\push\bin\Debug\netcoreapp2.1\push.dll
+C:\Users\Henry\source\repos\push\push\bin\Debug\netcoreapp2.1\push.pdb
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.csprojAssemblyReference.cache
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.csproj.CoreCompileInputs.cache
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.AssemblyInfoInputs.cache
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.AssemblyInfo.cs
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.dll
+C:\Users\Henry\source\repos\push\push\obj\Debug\netcoreapp2.1\push.pdb
